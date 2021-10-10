@@ -6,7 +6,7 @@
 * İkinci Olarak Bilgisiyarına [Ffpmeg](https://www.ffmpeg.org/) İndir.
 * Bu projeyi zip halinde indir.
 * Herhangi bir klasöre zipi çıkart.
-* Daha sonra `ayarlar.js` dosyasının içindeki bilgileri doldur.
+* Daha sonra `transconf.js` dosyasının içindeki bilgileri doldur.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * ```npm install``` yazarak tüm modülleri kur.
 * Kurulum bittikten sonra ```npm start``` yaz ve botu başlat.
