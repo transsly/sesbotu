@@ -1,8 +1,9 @@
 # sesbotu
-# Discord Voice Bot Register / V12
+# Discord Voice Bot  / V12
 
 # Kurulum
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
+* İkinci Olarak Bilgisiyarına [Ffpmeg](https://www.ffmpeg.org/) İndir.
 * Bu projeyi zip halinde indir.
 * Herhangi bir klasöre zipi çıkart.
 * Daha sonra `ayarlar.js` dosyasının içindeki bilgileri doldur.
