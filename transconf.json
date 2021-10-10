@@ -1,0 +1,17 @@
+{
+    "channels":{
+        "voice1": "",
+        "voice2": "",
+        "voice3": "",
+        "voice4": "",
+        "voice5": ""
+    },
+    "perms": {
+    "yetkiliperm": "",
+    "kayıtsız": ""
+    },
+    "bots": {
+        "footer": ["Transsly 💜 Discow", "Transsly Ecosystem.js!", "Discow 💜 Transsly", "Transsly Was here !"],
+        "status": "online"
+    }
+}
